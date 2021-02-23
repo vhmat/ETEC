@@ -1,0 +1,7 @@
+C:\Users\mateu\Desktop\ExerciciosDS\AplCslExercicio1\AplCslExercicio1\bin\Debug\AplCslExercicio1.exe.config
+C:\Users\mateu\Desktop\ExerciciosDS\AplCslExercicio1\AplCslExercicio1\bin\Debug\AplCslExercicio1.exe
+C:\Users\mateu\Desktop\ExerciciosDS\AplCslExercicio1\AplCslExercicio1\bin\Debug\AplCslExercicio1.pdb
+C:\Users\mateu\Desktop\ExerciciosDS\AplCslExercicio1\AplCslExercicio1\obj\Debug\AplCslExercicio1.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\ExerciciosDS\AplCslExercicio1\AplCslExercicio1\obj\Debug\AplCslExercicio1.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\ExerciciosDS\AplCslExercicio1\AplCslExercicio1\obj\Debug\AplCslExercicio1.exe
+C:\Users\mateu\Desktop\ExerciciosDS\AplCslExercicio1\AplCslExercicio1\obj\Debug\AplCslExercicio1.pdb
