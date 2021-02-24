@@ -1,0 +1,7 @@
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\AplCslExercicio15\AplCslExercicio15\bin\Debug\AplCslExercicio15.exe.config
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\AplCslExercicio15\AplCslExercicio15\bin\Debug\AplCslExercicio15.exe
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\AplCslExercicio15\AplCslExercicio15\bin\Debug\AplCslExercicio15.pdb
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\AplCslExercicio15\AplCslExercicio15\obj\Debug\AplCslExercicio15.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\AplCslExercicio15\AplCslExercicio15\obj\Debug\AplCslExercicio15.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\AplCslExercicio15\AplCslExercicio15\obj\Debug\AplCslExercicio15.exe
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\AplCslExercicio15\AplCslExercicio15\obj\Debug\AplCslExercicio15.pdb
