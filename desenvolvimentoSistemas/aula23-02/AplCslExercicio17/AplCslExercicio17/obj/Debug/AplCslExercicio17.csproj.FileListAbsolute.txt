@@ -1,0 +1,6 @@
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\aula23-02\AplCslExercicio17\AplCslExercicio17\bin\Debug\AplCslExercicio17.exe.config
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\aula23-02\AplCslExercicio17\AplCslExercicio17\bin\Debug\AplCslExercicio17.exe
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\aula23-02\AplCslExercicio17\AplCslExercicio17\bin\Debug\AplCslExercicio17.pdb
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\aula23-02\AplCslExercicio17\AplCslExercicio17\obj\Debug\AplCslExercicio17.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\aula23-02\AplCslExercicio17\AplCslExercicio17\obj\Debug\AplCslExercicio17.exe
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\aula23-02\AplCslExercicio17\AplCslExercicio17\obj\Debug\AplCslExercicio17.pdb
