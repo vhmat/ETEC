@@ -14,7 +14,7 @@ namespace AplCslExercicio17
             //A estrutura de repetição for abaixo diz que o índice começa em 10 e termina apenas quando for igual a 1.
             for(int i=10; i>=1; i--)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(i.ToString());
             }
             Console.ReadKey();
         }
