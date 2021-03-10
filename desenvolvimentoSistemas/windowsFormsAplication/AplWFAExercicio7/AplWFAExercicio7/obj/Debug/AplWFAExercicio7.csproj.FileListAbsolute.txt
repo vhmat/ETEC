@@ -1,0 +1,10 @@
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFAExercicio7\AplWFAExercicio7\bin\Debug\AplWFAExercicio7.exe.config
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFAExercicio7\AplWFAExercicio7\bin\Debug\AplWFAExercicio7.exe
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFAExercicio7\AplWFAExercicio7\bin\Debug\AplWFAExercicio7.pdb
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFAExercicio7\AplWFAExercicio7\obj\Debug\AplWFAExercicio7.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFAExercicio7\AplWFAExercicio7\obj\Debug\AplWFAExercicio7.Exercicio7Form.resources
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFAExercicio7\AplWFAExercicio7\obj\Debug\AplWFAExercicio7.Properties.Resources.resources
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFAExercicio7\AplWFAExercicio7\obj\Debug\AplWFAExercicio7.csproj.GenerateResource.cache
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFAExercicio7\AplWFAExercicio7\obj\Debug\AplWFAExercicio7.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFAExercicio7\AplWFAExercicio7\obj\Debug\AplWFAExercicio7.exe
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFAExercicio7\AplWFAExercicio7\obj\Debug\AplWFAExercicio7.pdb

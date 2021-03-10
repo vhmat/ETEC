@@ -1,7 +1,7 @@
 ﻿
 namespace AplWFAExercicio7
 {
-    partial class Form1
+    partial class Exercicio7Form
     {
         /// <summary>
         /// Required designer variable.
@@ -38,7 +38,10 @@ namespace AplWFAExercicio7
             this.qtdRecebidaCarro = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.labelSalario = new System.Windows.Forms.Label();
-            this.salarioFinal = new System.Windows.Forms.TextBox();
+            this.resultado = new System.Windows.Forms.TextBox();
+            this.botaoCalcular = new System.Windows.Forms.Button();
+            this.botaoSair = new System.Windows.Forms.Button();
+            this.botaoLimpar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -116,20 +119,59 @@ namespace AplWFAExercicio7
             this.labelSalario.TabIndex = 8;
             this.labelSalario.Text = "O salário final do funcionário é igual a:";
             // 
-            // salarioFinal
+            // resultado
             // 
-            this.salarioFinal.Location = new System.Drawing.Point(328, 182);
-            this.salarioFinal.Name = "salarioFinal";
-            this.salarioFinal.Size = new System.Drawing.Size(100, 20);
-            this.salarioFinal.TabIndex = 9;
-            this.salarioFinal.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.resultado.Location = new System.Drawing.Point(328, 182);
+            this.resultado.Name = "resultado";
+            this.resultado.Size = new System.Drawing.Size(100, 20);
+            this.resultado.TabIndex = 9;
+            this.resultado.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            // 
+            // botaoCalcular
+            // 
+            this.botaoCalcular.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.botaoCalcular.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.botaoCalcular.Location = new System.Drawing.Point(15, 281);
+            this.botaoCalcular.Name = "botaoCalcular";
+            this.botaoCalcular.Size = new System.Drawing.Size(111, 46);
+            this.botaoCalcular.TabIndex = 10;
+            this.botaoCalcular.Text = "&Calcular";
+            this.botaoCalcular.UseVisualStyleBackColor = false;
+            this.botaoCalcular.Click += new System.EventHandler(this.botaoCalcular_Click);
+            // 
+            // botaoSair
+            // 
+            this.botaoSair.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.botaoSair.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.botaoSair.Location = new System.Drawing.Point(317, 281);
+            this.botaoSair.Name = "botaoSair";
+            this.botaoSair.Size = new System.Drawing.Size(111, 46);
+            this.botaoSair.TabIndex = 11;
+            this.botaoSair.Text = "&Sair";
+            this.botaoSair.UseVisualStyleBackColor = false;
+            this.botaoSair.Click += new System.EventHandler(this.botaoSair_Click);
+            // 
+            // botaoLimpar
+            // 
+            this.botaoLimpar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.botaoLimpar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.botaoLimpar.Location = new System.Drawing.Point(165, 281);
+            this.botaoLimpar.Name = "botaoLimpar";
+            this.botaoLimpar.Size = new System.Drawing.Size(111, 46);
+            this.botaoLimpar.TabIndex = 12;
+            this.botaoLimpar.Text = "&Limpar";
+            this.botaoLimpar.UseVisualStyleBackColor = false;
+            this.botaoLimpar.Click += new System.EventHandler(this.botaoLimpar_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.salarioFinal);
+            this.Controls.Add(this.botaoLimpar);
+            this.Controls.Add(this.botaoSair);
+            this.Controls.Add(this.botaoCalcular);
+            this.Controls.Add(this.resultado);
             this.Controls.Add(this.labelSalario);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.qtdRecebidaCarro);
@@ -157,7 +199,10 @@ namespace AplWFAExercicio7
         private System.Windows.Forms.TextBox qtdRecebidaCarro;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label labelSalario;
-        private System.Windows.Forms.TextBox salarioFinal;
+        private System.Windows.Forms.TextBox resultado;
+        private System.Windows.Forms.Button botaoCalcular;
+        private System.Windows.Forms.Button botaoSair;
+        private System.Windows.Forms.Button botaoLimpar;
     }
 }
 
