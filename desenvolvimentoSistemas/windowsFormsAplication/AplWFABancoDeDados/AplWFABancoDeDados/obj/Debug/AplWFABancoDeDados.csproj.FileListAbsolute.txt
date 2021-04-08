@@ -1,0 +1,11 @@
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFABancoDeDados\AplWFABancoDeDados\bin\Debug\AplWFABancoDeDados.exe.config
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFABancoDeDados\AplWFABancoDeDados\bin\Debug\AplWFABancoDeDados.exe
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFABancoDeDados\AplWFABancoDeDados\bin\Debug\AplWFABancoDeDados.pdb
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFABancoDeDados\AplWFABancoDeDados\obj\Debug\AplWFABancoDeDados.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFABancoDeDados\AplWFABancoDeDados\obj\Debug\AplWFABancoDeDados.primeiroFormulario.resources
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFABancoDeDados\AplWFABancoDeDados\obj\Debug\AplWFABancoDeDados.segundoFormulario.resources
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFABancoDeDados\AplWFABancoDeDados\obj\Debug\AplWFABancoDeDados.Properties.Resources.resources
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFABancoDeDados\AplWFABancoDeDados\obj\Debug\AplWFABancoDeDados.csproj.GenerateResource.cache
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFABancoDeDados\AplWFABancoDeDados\obj\Debug\AplWFABancoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFABancoDeDados\AplWFABancoDeDados\obj\Debug\AplWFABancoDeDados.exe
+C:\Users\mateu\Desktop\Repositórios GIT\ETEC\desenvolvimentoSistemas\windowsFormsAplication\AplWFABancoDeDados\AplWFABancoDeDados\obj\Debug\AplWFABancoDeDados.pdb

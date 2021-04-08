@@ -71,6 +71,7 @@ namespace AplWFAExercicio7
             this.valorFinal.Name = "valorFinal";
             this.valorFinal.Size = new System.Drawing.Size(100, 20);
             this.valorFinal.TabIndex = 3;
+            this.valorFinal.Click += new System.EventHandler(this.valorFinal_Click);
             // 
             // botaoCalcular
             // 
@@ -112,7 +113,7 @@ namespace AplWFAExercicio7
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(326, 119);
+            this.ClientSize = new System.Drawing.Size(298, 121);
             this.Controls.Add(this.botaoLimpar);
             this.Controls.Add(this.botaoSair);
             this.Controls.Add(this.botaoCalcular);

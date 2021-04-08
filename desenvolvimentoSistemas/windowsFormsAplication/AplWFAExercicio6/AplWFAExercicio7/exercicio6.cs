@@ -44,5 +44,10 @@ namespace AplWFAExercicio7
 
             valorFinal.Text = custoFinal.ToString();
         }
+
+        private void valorFinal_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
